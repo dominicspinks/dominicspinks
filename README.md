@@ -28,7 +28,7 @@ This is my capstone project for General Assembly's Software Engineering Immersiv
 
 ProjectPacer is a project management application designed to help small teams efficiently manage their projects. It provides features for user authentication, tracking project progress, and facilitating team communication through the included chat widget.
 
-<!-- ### Try it out yourself : [ProjectPacer](link to live app) -->
+### Start managing your own projects : [ProjectPacer](https://projectpacer.netlify.app/)
 
 <img src="/projectPacer.png" width="65%">
 <hr>
@@ -41,7 +41,7 @@ TripMixer is a travel planning app designed to help users create and manage thei
 
 Users can also share their trips and experiences with other users, allowing them to get inspired and connect with other travellers.
 
-### Start planning your next adventure [here](https://sei-tripmixer.fly.dev/)
+### Begin planning your next adventure [here](https://sei-tripmixer.fly.dev/)
 
 <img src="/tripMixer.png" width="65%">
 <hr>
