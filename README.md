@@ -61,7 +61,5 @@ Users can browse through the repository of other user's shared workouts, saving 
 
 ## Portfolio/Contact
 
-<!-- Portfolio [dominicspinks.com](https://dominicspinks.com) | -->
-
-Email [dominic.spinks@outlook.com](mailto:dominic.spinks@outlook.com) |
+Portfolio [dominicspinks.com](https://dominicspinks.com) | Email [dominic.spinks@outlook.com](mailto:dominic.spinks@outlook.com) |
 [LinkedIn](https://www.linkedin.com/in/dominicspinks/)
