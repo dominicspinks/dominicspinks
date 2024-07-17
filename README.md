@@ -28,7 +28,7 @@ This is my capstone project for General Assembly's Software Engineering Immersiv
 
 ProjectPacer is a project management application designed to help small teams efficiently manage their projects. It provides features for user authentication, tracking project progress, and facilitating team communication through the included chat widget.
 
-### Start managing your own projects : [ProjectPacer](https://projectpacer.netlify.app/)
+### Demo : [ProjectPacer](https://projectpacer.netlify.app/)
 
 <img src="/projectPacer.png" width="65%">
 <hr>
@@ -41,7 +41,7 @@ TripMixer is a travel planning app designed to help users create and manage thei
 
 Users can also share their trips and experiences with other users, allowing them to get inspired and connect with other travellers.
 
-### Begin planning your next adventure [here](https://sei-tripmixer.fly.dev/)
+### Demo : [here](https://sei-tripmixer.fly.dev/)
 
 <img src="/tripMixer.png" width="65%">
 <hr>
@@ -54,12 +54,11 @@ RepRealm is a web application for creating and storing your custom workout routi
 
 Users can browse through the repository of other user's shared workouts, saving those they like to perform for themselves.
 
-### Try it out yourself : [RepRealm](https://reprealm.onrender.com/)
+### Demo : [RepRealm](https://reprealm.onrender.com/)
 
 <img src="/repRealm.png" width="65%">
 <hr>
 
 ## Portfolio/Contact
 
-Portfolio [dominicspinks.com](https://dominicspinks.com) | Email [dominic.spinks@outlook.com](mailto:dominic.spinks@outlook.com) |
-[LinkedIn](https://www.linkedin.com/in/dominicspinks/)
+Portfolio [dominicspinks.com](https://dominicspinks.com) | Email [dominic.spinks@outlook.com](mailto:dominic.spinks@outlook.com) | [LinkedIn](https://www.linkedin.com/in/dominicspinks/)
