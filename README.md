@@ -20,6 +20,17 @@ While my current role encompasses designing software, my ambition extends to con
 
 # Projects
 
+## [Portfolio](https://github.com/dominicspinks/portfolio)
+
+### React
+
+This portfolio showcases my work, skills, and projects in software development. Built with React, it features a clean and responsive design to highlight my journey and accomplishments, including detailed project sections, an about me page, and contact information.
+
+### Demo: [Portfolio](https://dominicspinks.com/)
+
+<img src="/portfolio.png" width="65%">
+<hr>
+
 ## [ProjectPacer](https://github.com/dominicspinks/ProjectPacer)
 
 ### React | Supabase
@@ -41,7 +52,7 @@ TripMixer is a travel planning app designed to help users create and manage thei
 
 Users can also share their trips and experiences with other users, allowing them to get inspired and connect with other travellers.
 
-### Demo : [here](https://sei-tripmixer.fly.dev/)
+### Demo : [here](https://tripmixer.dominicspinks.com/)
 
 <img src="/tripMixer.png" width="65%">
 <hr>
