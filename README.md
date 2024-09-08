@@ -20,7 +20,7 @@ While my current role encompasses designing software, my ambition extends to con
 
 # Projects
 
-## [Portfolio](https://github.com/dominicspinks/portfolio)
+## [Portfolio](https://github.com/dominicspinks/dominic-portfolio)
 
 ### React
 
