@@ -65,7 +65,7 @@ RepRealm is a web application for creating and storing your custom workout routi
 
 Users can browse through the repository of other user's shared workouts, saving those they like to perform for themselves.
 
-### Demo : [RepRealm](https://reprealm.onrender.com/)
+### Demo : [RepRealm](https://reprealm.dominicspinks.com/)
 
 <img src="/repRealm.png" width="65%">
 <hr>
