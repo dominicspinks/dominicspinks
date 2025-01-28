@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-I am a software engineer with a six-year journey through the diverse realms of IT and software development. Starting from hands-on technical support, progressing through software testing and documentation, and advancing into software design and management, I've consistently adapted to deliver solutions. My core strength lies in problem-solving and critical thinking, thriving on intellectually challenging work that involves solving novel problems.
+I’m a software engineer with seven years of experience across different areas of IT and software development. My journey started with hands-on technical support, moved through software testing and documentation, and eventually led to software design and management. Throughout, I’ve developed a knack for problem-solving and critical thinking, especially when tackling new challenges.
 
-While my current role encompasses designing software, my ambition extends to contributing to the entire development process. This aspiration prompted my enrollment in General Assembly's Software Engineering Immersive, marking my commitment to become a software engineer. Looking forward, I am poised to leverage this background, coupled with my newfound skills, to make impactful strides in software engineering.
+I decided to deepen my skills by completing General Assembly's Software Engineering Immersive, giving me hands-on experience in full-stack development, and I’m excited to use everything I’ve learned to create innovative and practical solutions as a software engineer.
 
 ## Skills/Tools:
 
-![My Skills](https://skillicons.dev/icons?i=react,nodejs,express,python,django,js,mongodb,postgres,mysql,html,css)
+![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,docker,express,dotnet,cs,python,django,mongodb,postgres,mysql,html,css,aws)
 
-| Skills     |         |            |
-| ---------- | ------- | ---------- |
-| React      | NodeJs  | Fly.io     |
-| JavaScript | Express | Render     |
-| HTML5      | Django  | Supabase   |
-| CSS        | Python  | MySQL      |
-| EJS        | AWS     | PostgreSql |
-| Bootstrap  | Git     | SQL Server |
-| Tailwind   | Bash    | MongoDB    |
+| **Category**               | **Technologies**                                    |
+| -------------------------- | --------------------------------------------------- |
+| **Programming Languages**  | C#, JavaScript, Python, SQL                         |
+| **Frameworks & Libraries** | .NET 8, React, Django, Express, Tailwind, Bootstrap |
+| **Databases**              | PostgreSQL, MySQL, MongoDB, SQL Server              |
+| **Tools & Platforms**      | Docker, Portainer, Git, Bash, Dapper, Supabase      |
+| **Cloud Services**         | AWS S3, Fly.io, Render                              |
 
 # Projects
 
@@ -29,6 +27,19 @@ This portfolio showcases my work, skills, and projects in software development. 
 ### Demo: [Portfolio](https://dominicspinks.com/)
 
 <img src="/portfolio.png" width="65%">
+<hr>
+
+## [StoreBytes](https://github.com/dominicspinks/StoreBytes)
+
+### C# | .NET 8 | Dapper | PostgreSQL
+
+StoreBytes is a file storage and management system inspired by AWS S3. I created this project to host the files and images required by my applications, in order to avoid any unexpected costs associated with using S3 storage.
+
+It enables users to securely upload, retrieve, and manage files via an API. Public URLs are provided for seamless file sharing and integration into websites and applications.
+
+### Demo : [StoreBytes](https://storebytes.domsapps.com/)
+
+<img src="/storeBytes.png" width="65%">
 <hr>
 
 ## [ProjectPacer](https://github.com/dominicspinks/ProjectPacer)
@@ -51,6 +62,8 @@ ProjectPacer is a project management application designed to help small teams ef
 TripMixer is a travel planning app designed to help users create and manage their holiday. Users can plan their trips, select their preferred destinations, and customize their itinerary to suit their preferences.
 
 Users can also share their trips and experiences with other users, allowing them to get inspired and connect with other travellers.
+
+TripMixer has been updated to support my StoreBytes file storage and management system.
 
 ### Demo : [here](https://tripmixer.dominicspinks.com/)
 
