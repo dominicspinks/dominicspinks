@@ -28,7 +28,7 @@ This portfolio showcases my work, skills, and projects in software development. 
 
 ### Demo: [Portfolio](https://dominicspinks.com/)
 
-<img src="/portfolio.png" width="65%">
+<img src="/portfolio-new.png" width="65%">
 <hr>
 
 ## [RepRealm](https://github.com/dominicspinks/RepRealm)
