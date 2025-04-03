@@ -71,7 +71,7 @@ ProjectPacer is a project management application designed to help small teams ef
 
 ### Demo : [ProjectPacer](https://projectpacer.netlify.app/)
 
-<img src="/projectPacer.png" width="65%">
+<img src="/projectPacer-1.png" width="65%">
 <hr>
 
 ## [TripMixer](https://github.com/dominicspinks/tripmixer)
