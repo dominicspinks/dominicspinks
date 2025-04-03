@@ -43,7 +43,7 @@ The app features a React Native mobile frontend with Drizzle ORM and SQLite for 
 
 ### Demo : [RepRealm](#)
 
-<img src="/reprealm.png" width="65%">
+<img src="/reprealm.png" width="45%">
 <hr>
 
 ## [StoreBytes](https://github.com/dominicspinks/StoreBytes)
