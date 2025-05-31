@@ -8,13 +8,13 @@ I decided to deepen my skills by completing General Assembly's Software Engineer
 
 ![My Skills](https://skillicons.dev/icons?i=ts,js,react,nodejs,nestjs,express,cs,dotnet,python,django,html,css,tailwind,bootstrap,graphql)
 
-| **Category**               | **Technologies**                                                                                    |
-| -------------------------- | --------------------------------------------------------------------------------------------------- |
-| **Programming Languages**  | TypeScript, JavaScript, Python, C#, HTML, CSS                                                       |
-| **Frameworks & Libraries** | React, React Native, Node.js, NestJS, .NET 8, Razor Pages, Django, Express, Tailwind CSS, Bootstrap |
-| **Databases & ORMS**       | PostgreSQL, MySQL, MongoDB, SQL Server, SQLite, Dapper, Drizzle ORM, Prisma ORM                     |
-| **Tools & Platforms**      | Docker, Portainer, Git, GitHub, Bitbucket, Batch, PowerShell, Postman, Navicat, Figma               |
-| **Cloud Services**         | AWS S3, Supabase, Fly.io, Render                                                                    |
+| **Category**               | **Technologies**                                                                                                                    |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Programming Languages**  | TypeScript, JavaScript, Python, C#, HTML, CSS                                                                                       |
+| **Frameworks & Libraries** | React, React Native, Angular, Node.js, NestJS, .NET 8, Razor Pages, Django, Django REST Framework, Express, Tailwind CSS, Bootstrap |
+| **Databases & ORMS**       | PostgreSQL, MySQL, MongoDB, SQL Server, SQLite, Dapper, Drizzle ORM, Prisma ORM                                                     |
+| **Tools & Platforms**      | Docker, Portainer, Git, GitHub, Bitbucket, Batch, PowerShell, Postman, Navicat, Figma                                               |
+| **Cloud Services**         | AWS S3, Supabase, Fly.io, Render                                                                                                    |
 
 ![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,docker,aws,supabase,postman,git,github,bitbucket,visualstudio,vscode,linux,windows)
 
@@ -29,6 +29,21 @@ This portfolio showcases my work, skills, and projects in software development. 
 ### Demo: [Portfolio](https://dominicspinks.com/)
 
 <img src="/portfolio-new.png" width="65%">
+<hr>
+
+## [Life](https://github.com/dominicspinks/life)
+
+### Angular | TypeScript | Python | Django REST Framework | PostgreSQL
+
+Life App is a personal dashboard for managing modular tools that help organise your digital life. This app was created to replace the numerous google sheets I was using for my life admin.
+
+The key feature is the budget tool, which allows you to record your income and expenses and stay on track with your budget. It also features a customisable list module, allowing you to create lists of any content you need.
+
+The front end is built using Angular and TypeScript, and the API is powered by Django REST Framework and PostgreSQL.
+
+### Demo : [Life](https://life.domsapps.com/)
+
+<img src="/life-budget.png" width="65%">
 <hr>
 
 ## [RepRealm](https://github.com/dominicspinks/RepRealm)
@@ -87,23 +102,6 @@ TripMixer has been updated to support my StoreBytes file storage and management 
 ### Demo : [here](https://tripmixer.dominicspinks.com/)
 
 <img src="/tripMixer.png" width="65%">
-<hr>
-
-## [RepRealm (original)](https://github.com/dominicspinks/RepRealm)
-
-### MongoDB | Express | EJS | NodeJs
-
-This is my original version of RepRealm, using the MEEN stack and my first application deployed.
-
-RepRealm is a web application for creating, storing and sharing your custom workout routines.
-
-Users can browse through the repository of other user's shared workouts, saving those they like to perform for themselves.
-
-This version of RepRealm has now been replaced with an updated version using React and NestJS described above.
-
-### Demo : [RepRealm](https://reprealm.dominicspinks.com/)
-
-<img src="/repRealm-EJS.png" width="65%">
 <hr>
 
 ## Deployment & Self-Hosting
